@@ -16,6 +16,9 @@
     <PackageReleaseNotes>- Added readme docs
 - Add methods for fallback when cache return null
 - TryGetFromCache bug fix when returning from cache the first time</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/TchapsSolution/Tchaps.Plugins.Cache</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/TchapsSolution/Tchaps.Plugins.Cache</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
